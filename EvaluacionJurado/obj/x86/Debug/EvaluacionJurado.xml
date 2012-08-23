@@ -1,0 +1,272 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EvaluacionJurado
+</name>
+</assembly>
+<members>
+<member name="P:EvaluacionJurado.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:EvaluacionJurado.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:EvaluacionJurado.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.FestivalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.ParticipanteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.InstitutoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.CancionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.EvaluacionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.NombreInstitutoCancionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.JuecesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.EvaluacionPorJuezDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.TotalGeneralDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.FestivalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.ParticipanteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.InstitutoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.CancionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.EvaluacionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.NombreInstitutoCancionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.JuecesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.EvaluacionPorJuezRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.TotalGeneralRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.FestivalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.ParticipanteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.InstitutoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.CancionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.EvaluacionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.NombreInstitutoCancionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.JuecesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.EvaluacionPorJuezRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival.TotalGeneralRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestival">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestivalTableAdapters.FestivalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestivalTableAdapters.ParticipanteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestivalTableAdapters.InstitutoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestivalTableAdapters.CancionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestivalTableAdapters.EvaluacionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestivalTableAdapters.NombreInstitutoCancionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestivalTableAdapters.JuecesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestivalTableAdapters.EvaluacionPorJuezTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestivalTableAdapters.TotalGeneralTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:EvaluacionJurado.DataSetFestivalTableAdapters.TableAdapterManager.UpdateUpdatedRows(EvaluacionJurado.DataSetFestival,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:EvaluacionJurado.DataSetFestivalTableAdapters.TableAdapterManager.UpdateInsertedRows(EvaluacionJurado.DataSetFestival,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:EvaluacionJurado.DataSetFestivalTableAdapters.TableAdapterManager.UpdateDeletedRows(EvaluacionJurado.DataSetFestival,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:EvaluacionJurado.DataSetFestivalTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:EvaluacionJurado.DataSetFestivalTableAdapters.TableAdapterManager.UpdateAll(EvaluacionJurado.DataSetFestival)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestivalTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestivalTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetFestivalTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetSeguridad.AdministradoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetSeguridad.JuecesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetSeguridad.AdministradoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetSeguridad.JuecesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetSeguridad.AdministradoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetSeguridad.JuecesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetSeguridad">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetSeguridadTableAdapters.AdministradoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetSeguridadTableAdapters.JuecesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:EvaluacionJurado.DataSetSeguridadTableAdapters.TableAdapterManager.UpdateUpdatedRows(EvaluacionJurado.DataSetSeguridad,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:EvaluacionJurado.DataSetSeguridadTableAdapters.TableAdapterManager.UpdateInsertedRows(EvaluacionJurado.DataSetSeguridad,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:EvaluacionJurado.DataSetSeguridadTableAdapters.TableAdapterManager.UpdateDeletedRows(EvaluacionJurado.DataSetSeguridad,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:EvaluacionJurado.DataSetSeguridadTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:EvaluacionJurado.DataSetSeguridadTableAdapters.TableAdapterManager.UpdateAll(EvaluacionJurado.DataSetSeguridad)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetSeguridadTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetSeguridadTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:EvaluacionJurado.DataSetSeguridadTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
